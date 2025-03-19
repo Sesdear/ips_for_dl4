@@ -3,5 +3,4 @@
   "defaultPort": 30752,
   "type": "http",
   "serverListDir": "ipconfigs",
-
 }
