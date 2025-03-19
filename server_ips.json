@@ -2,5 +2,5 @@
   "defaultIp": "109.174.10.81",
   "defaultPort": 30752,
   "type": "http",
-  "serverListDir": "ipconfigs",
+  "serverListDir": "ipconfigs"
 }
