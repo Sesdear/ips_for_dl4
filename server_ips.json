@@ -1,5 +1,8 @@
 {
   "defaultIp": "109.174.10.81",
   "defaultPort": "30752",
-  "type": "http"
+  "type": "http",
+  "serverListDir": "ipconfigs",
+  "serverListFile": "server_list.json"
+  
 }
