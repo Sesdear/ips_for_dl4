@@ -5,5 +5,5 @@
   "serverListDir": "ipconfigs",
   "serverListFile": "servers_list.json",
   "manifestListDir": "manifests",
-  "manifestListFile": "-manifest.json"
+  "manifestListFile": "manifest.json"
 }
