@@ -3,5 +3,7 @@
   "defaultPort": 30752,
   "type": "http",
   "serverListDir": "ipconfigs",
-  "serverListFile": "servers_list.json"
+  "serverListFile": "servers_list.json",
+  "manifestListDir": "manifests",
+  "manifestListFile": "-manifest.json"
 }
