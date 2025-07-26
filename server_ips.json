@@ -1,5 +1,5 @@
 {
-  "defaultIp": "109.174.10.81",
-  "defaultPort": 30752,
-  "type": "http"
+  "DefaultIp": "109.174.10.81",
+  "DefaultPort": 30752,
+  "TypeOfProtocol": "http"
 }
