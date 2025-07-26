@@ -2,5 +2,5 @@
   "DefaultIp": "109.174.10.81",
   "DefaultPort": 30752,
   "TypeOfProtocol": "http",
-  "ServerFile": "servers_list.json"
+  "ServerListFile": "servers_list.json"
 }
